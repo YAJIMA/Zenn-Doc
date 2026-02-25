@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/YAJIMA/Zenn-Doc#readme",
   "dependencies": {
-    "zenn-cli": "^0.3.1"
+    "zenn-cli": "^0.4.5"
   }
 }
